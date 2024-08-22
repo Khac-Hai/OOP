@@ -11,9 +11,9 @@ Members:
 ### Week 1 Task
 
 ## Mã 1
-Slide bài giảng
+ Slide bài giảng
 
-https://nglthu.github.io/OOP_References/Slides/Lecture2_LTN.pdf
+ https://nglthu.github.io/OOP_References/Slides/Lecture2_LTN.pdf
 
  Chạy mã trong Trang trình bày 6 (Bài tập khó Phần 1)
  Chạy mã trong Trang trình bày 7 (Bài tập khó Phần 2)
@@ -22,7 +22,7 @@ https://nglthu.github.io/OOP_References/Slides/Lecture2_LTN.pdf
  Giá trị trả về ?
  Sự khác biệt giữa mỗi mã là gì?
 ## Mã 2: Chạy mã trên W3schools
-https://www.w3schools.com/java/default.asp
+ https://www.w3schools.com/java/default.asp
 
  Điều khiển
  Java Nếu … Khác
