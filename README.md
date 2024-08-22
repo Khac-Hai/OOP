@@ -41,7 +41,7 @@ https://www.w3schools.com/java/default.asp
 
  Thảo luận 2
  Có khó khăn gì không?
-##Mã số 3
+## Mã số 3
  Tổ chức tất cả các mã ngày hôm nay trong kho lưu trữ của bạn trên Github
 
  Xem lại bài học trước Thiết lập dự án Java cho GitHub Codespaces
