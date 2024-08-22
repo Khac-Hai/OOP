@@ -2,9 +2,9 @@
 
 Members:
 
-1.Hai
-2.Thư.
-3.Thu
+1. Hải
+2. Thư
+3. Thu
 
 ##Task
 
