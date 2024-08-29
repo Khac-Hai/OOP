@@ -7,5 +7,7 @@ public class PassObject {
     n.i = 14;
     f(n);
     System.out.println("n.i = " + n.i);
+    System.out.println("hai test");
+    
     }
    }
