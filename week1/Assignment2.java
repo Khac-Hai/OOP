@@ -8,6 +8,6 @@ public class Assignment2 {
     n2.i = 10;// what is n1.i?
     System.out.println("n1.i =" + n1.i);
     n1.i = 20;// what is n2.i?
-    System.out.println("n2.i =" + n2.i);
+    System.out.println("vi du n2.i =" + n2.i);
     }
    }
