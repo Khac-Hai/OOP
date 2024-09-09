@@ -48,8 +48,4 @@ https://nglthu.github.io/OOP_References/Slides/Lecture2_LTN.pdf
  Thảo luận 2
  Có khó khăn gì không?
 ## Mã số 3
- Tổ chức tất cả các mã ngày hôm nay trong kho lưu trữ của bạn trên Github
 
- Xem lại bài học trước Thiết lập dự án Java cho GitHub Codespaces
-
- Cam kết tất cả mã trên Github của bạn với thông báo cụ thể cho mỗi lần cam kết.
