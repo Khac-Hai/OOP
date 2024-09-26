@@ -1,4 +1,4 @@
-package com.cuoiky.control;
+package com.cuoiky.Models;
 
 public class User {
     private int id;

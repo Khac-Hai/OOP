@@ -1,4 +1,4 @@
-package com.cuoiky.control;
+package com.cuoiky.Models;
 
 public class Category {
     private int id;

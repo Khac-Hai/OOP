@@ -1,4 +1,4 @@
-package com.cuoiky.control;
+package com.cuoiky.Models;
 import java.sql.Timestamp;
 
 public class Book {

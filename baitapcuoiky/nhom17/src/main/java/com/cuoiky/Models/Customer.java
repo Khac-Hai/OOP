@@ -1,4 +1,4 @@
-package com.cuoiky.control;
+package com.cuoiky.Models;
 
 public class Customer {
     private int customerId;

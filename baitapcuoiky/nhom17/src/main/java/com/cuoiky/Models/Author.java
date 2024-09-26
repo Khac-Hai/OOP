@@ -1,4 +1,4 @@
-package com.cuoiky.control;
+package com.cuoiky.Models;
 
 public class Author {
     private int authorID;
