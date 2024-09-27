@@ -1,4 +1,4 @@
-GROUP_17-OOP\
+GROUP_17-OOP
 # Hệ Thống Quản Lý Thư Viện
 
 Members:
